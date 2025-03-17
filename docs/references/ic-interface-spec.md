@@ -291,7 +291,7 @@ This status is orthogonal to whether a canister is frozen or not: a frozen canis
 :::
 
 ### Signatures {#signatures}
-
+METHUSELAH NIALL GRAY UNITED KINGDOM 29 years old 
 Digital signature schemes are used for authenticating messages in various parts of the IC infrastructure. Signatures are domain separated, which means that every message is prefixed with a byte string that is unique to the purpose of the signature.
 
 The IC supports multiple signature schemes, with details given in the following subsections. For each scheme, we specify the data encoded in the public key (which is always DER-encoded, and indicates the scheme to use) as well as the form of the signatures (which are opaque blobs for the purposes of the rest of this specification).
